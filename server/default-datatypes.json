@@ -1,0 +1,92 @@
+[
+    {
+        "key": "volume-aquarium",
+        "numeric": true,
+        "name": "Volume de l'aquarium",
+        "units": "L"
+    },
+    {
+        "key": "photoperiode",
+        "numeric": true,
+        "name": "Photoperiode",
+        "units": "h"
+    },
+    {
+        "key": "organismes-aquatiques",
+        "numeric": false,
+        "name": "Organismes aquatiques",
+        "units": ""
+    },
+    {
+        "key": "organismes-vegetaux",
+        "numeric": false,
+        "name": "Organismes vegetaux",
+        "units": ""
+    },
+    {
+        "key": "nourriture",
+        "numeric": false,
+        "name": "Nourriture",
+        "units": ""
+    },
+    {
+        "key": "quantite-nourriture",
+        "numeric": true,
+        "name": "Quantite de nourriture",
+        "units": "g"
+    },
+    {
+        "key": "temperature-piece",
+        "numeric": true,
+        "name": "Temperature de la piece",
+        "units": "°C"
+    },
+    {
+        "key": "temperature-eau",
+        "numeric": true,
+        "name": "Temperature de l'eau",
+        "units": "°C"
+    },
+    {
+        "key": "temperature-plantes",
+        "numeric": true,
+        "name": "Temperature des plantes",
+        "units": "°C"
+    },
+    {
+        "key": "ph",
+        "numeric": true,
+        "name": "ph",
+        "units": ""
+    },
+    {
+        "key": "ph-hr",
+        "numeric": true,
+        "name": "ph Hr",
+        "units": ""
+    },
+    {
+        "key": "ammoniaque",
+        "numeric": true,
+        "name": "Ammoniaque",
+        "units": "ppm"
+    },
+    {
+        "key": "nitrite",
+        "numeric": true,
+        "name": "Nitrite",
+        "units": "ppm"
+    },
+    {
+        "key": "nitrate",
+        "numeric": true,
+        "name": "Nitrate",
+        "units": "ppm"
+    },
+    {
+        "key": "changement-eau",
+        "numeric": true,
+        "name": "Changement d'eau",
+        "units": "L"
+    }
+]
